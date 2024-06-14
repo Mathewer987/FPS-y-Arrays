@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AlimentoColision : MonoBehaviour
+public class InteractionArea : MonoBehaviour
 {
     private void OnCollisionEnter(Collision collision)
     {
